@@ -90,4 +90,4 @@ SELL_THRESHOLD=300
 ---
 ## Support
 
-For support and further inquiries, please connect via Telegram: 📞 [jwest951227](https://t.me/jwest951227).
+For support and further inquiries, please connect via Telegram: 📞 [jwest951227](https://t.me/shinnyleo0912).
